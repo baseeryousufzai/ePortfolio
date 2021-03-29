@@ -19,7 +19,7 @@ a better appreciation for how they function. I’ve chosen to attend York Univer
 a strong electronics and power engineering concentration within my branch of electrical
 engineering. In addition to this, it’s extremely close to my home and by far the most affordable
 option for my education (as I’d be mostly paying for it by myself). However, it’s not where you
-go, it’s what you do there that truly matters
+go, it’s what you do there that truly matters.
 
 ### Markdown
 
