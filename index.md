@@ -1,8 +1,25 @@
 ## Hello and welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/Yousufzai-Baseer-216420770/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there! My name is Baseer Yousufzai and I’m a 3rd-year electrical engineering student
+at the Lassonde School of Engineering. I’m an eager and passionate individual and I dedicate
+myself to any task or organization I come across. I’m a first-generation Afghan-Canadian who
+has faced many challenges and struggles but is still here today. I’m here to honor those who
+have given so much for me and inspire my people and the youth in this country. One example of
+which is my uncle, Wali Mohammed Yousufzai, a father figure, mentor, and best friend to me.
+He passed away as of last year and he’s taught me countless things that wouldn’t make me the
+same person I would be today without him. One key point, in particular, is that hard work always
+pays off. No matter how long and challenging engineering is, there’s always a light at the end of
+the tunnel that’s only achievable via hard work, determination, and grit.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I’m studying electrical engineering as I have a strong interest in many paths within this major
+such as power electronics, electricity distribution, and electrical circuits and their many
+applications. I always try to learn and apply the content from my engineering courses to real-life
+applications as I know that’s how I’ll truly learn and understand the course material while having
+a better appreciation for how they function. I’ve chosen to attend York University as I feel it has
+a strong electronics and power engineering concentration within my branch of electrical
+engineering. In addition to this, it’s extremely close to my home and by far the most affordable
+option for my education (as I’d be mostly paying for it by myself). However, it’s not where you
+go, it’s what you do there that truly matters
 
 ### Markdown
 
