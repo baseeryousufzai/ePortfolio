@@ -2,14 +2,9 @@
 
 Hi there! My name is Baseer Yousufzai and I’m a 3rd-year electrical engineering student
 at the Lassonde School of Engineering. I’m an eager and passionate individual and I dedicate
-myself to any task or organization I come across. I’m a first-generation Afghan-Canadian who
-has faced many challenges and struggles but is still here today. I’m here to honor those who
-have given so much for me and inspire my people and the youth in this country. One example of
-which is my uncle, Wali Mohammed Yousufzai, a father figure, mentor, and best friend to me.
-He passed away as of last year and he’s taught me countless things that wouldn’t make me the
-same person I would be today without him. One key point, in particular, is that hard work always
-pays off. No matter how long and challenging engineering is, there’s always a light at the end of
-the tunnel that’s only achievable via hard work, determination, and grit.
+myself to any task or organization I come across. 
+
+
 
 I’m studying electrical engineering as I have a strong interest in many paths within this major
 such as power electronics, electricity distribution, and electrical circuits and their many
@@ -36,7 +31,7 @@ go, it’s what you do there that truly matters
     - Conducted literature review on concepts related to engineering education (i.e. Lateral thinking, transformative topics, etc).
 
 **Resume** 
-[Link](https://drive.google.com/file/d/1YtOsp2m7FHMZtnxWH7QOZGVUSLjdO_jS/view)
+- Click [here](https://drive.google.com/file/d/1YtOsp2m7FHMZtnxWH7QOZGVUSLjdO_jS/view)!
 
 ```markdown
 Syntax highlighted code block
@@ -53,8 +48,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://drive.google.com/file/d/1YtOsp2m7FHMZtnxWH7QOZGVUSLjdO_jS/view) and ![Image](src)
-```
+![Image](src)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
