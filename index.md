@@ -6,12 +6,6 @@ Hi there! My name is Baseer Yousufzai and I’m a 3rd-year electrical engineerin
 at the Lassonde School of Engineering. I’m an eager and passionate individual and I dedicate
 myself to any task or organization I come across. 
 
-I’m studying electrical engineering as I have a strong interest in many paths within this major
-such as power electronics, electricity distribution, and electrical circuits and their many
-applications. I always try to learn and apply the content from my engineering courses to real-life
-applications as I know that’s how I’ll truly learn and understand the course material while having
-a better appreciation for how they function.
-
 ## Education
 - Lassonde School of Engineering, Electrical Engineering B.Eng 2023, 3.0/4.0 GPA
 
@@ -27,29 +21,12 @@ a better appreciation for how they function.
 ## Resume
 - Click [here](https://drive.google.com/file/d/1YtOsp2m7FHMZtnxWH7QOZGVUSLjdO_jS/view)!
 
-```markdown
-Syntax highlighted code block
+## Goals
+- To continue working in the power and electricity distribution industry.
+- Contribute towards the goal of sustainable energy for residential use.
 
-# Testing!
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yousufzai-Baseer-216420770/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Skills
+- Using electronic lab equipment (oscilloscope, function generator, etc).
+- Building, prototyping, and testing electric circuits.
+- Labvolt (electrical motor simulation software.
+- Intermediate knowledge in Java, Python, MS Office, and MATLAB.
