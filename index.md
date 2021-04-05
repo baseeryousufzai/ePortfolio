@@ -16,11 +16,11 @@ a better appreciation for how they function.
 - Lassonde School of Engineering, Electrical Engineering B.Eng 2023, 3.0/4.0 GPA
 
 ## Work Experience 
-**1. Kumon Canada - Grading Table Lead** - _August 2015 - June 2018_
+**1. Kumon Canada - Grading Table Lead** - _August 2015-June 2018_
    - Grading student work and supervising coworkers during classroom hours.
    - Co-produced and presented two training modules to staff about grading policies and in-class protocols to reduce mistakes made   during in-class grading.
   
-**2. Research at York (RAY) - Engineering Education Research Assistant** - _July 2020 - September 2020_
+**2. Research at York (RAY) - Engineering Education Research Assistant** - _July 2020-September 2020_
     - Developed an Excel sheet on threshold and mathematical concepts related to 1st and 2nd year in the engineering curricula at York  University, for instructor use.
     - Conducted literature review on concepts related to engineering education (i.e. Lateral thinking, transformative topics, etc).
 
