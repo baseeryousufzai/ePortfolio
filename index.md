@@ -1,22 +1,14 @@
-## Hello and welcome to my website!
+## Hello and welcome to my ePortfolio!
 
 Hi there! My name is Baseer Yousufzai and I’m a 3rd-year electrical engineering student
 at the Lassonde School of Engineering. I’m an eager and passionate individual and I dedicate
 myself to any task or organization I come across. 
 
-
-
 I’m studying electrical engineering as I have a strong interest in many paths within this major
 such as power electronics, electricity distribution, and electrical circuits and their many
 applications. I always try to learn and apply the content from my engineering courses to real-life
 applications as I know that’s how I’ll truly learn and understand the course material while having
-a better appreciation for how they function. I’ve chosen to attend York University as I feel it has
-a strong electronics and power engineering concentration within my branch of electrical
-engineering. In addition to this, it’s extremely close to my home and by far the most affordable
-option for my education (as I’d be mostly paying for it by myself). However, it’s not where you
-go, it’s what you do there that truly matters
-
-
+a better appreciation for how they function.
 
 ## Education
 
@@ -50,7 +42,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](src)
+![Image](https://live.staticflickr.com/7013/6642553325_9ea117a20b_b.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
