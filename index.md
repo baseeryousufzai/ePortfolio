@@ -36,6 +36,7 @@ go, it’s what you do there that truly matters
     - Conducted literature review on concepts related to engineering education (i.e. Lateral thinking, transformative topics, etc).
 
 **Resume** 
+[Link](https://drive.google.com/file/d/1YtOsp2m7FHMZtnxWH7QOZGVUSLjdO_jS/view)
 
 ```markdown
 Syntax highlighted code block
