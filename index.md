@@ -35,7 +35,7 @@ go, it’s what you do there that truly matters
     - Developed an Excel sheet on threshold and mathematical concepts related to 1st and 2nd year in the engineering curricula at York  University, for instructor use.
     - Conducted literature review on concepts related to engineering education (i.e. Lateral thinking, transformative topics, etc).
 
-**Resume** https://tinyurl.com/baseery
+**Resume** 
 
 ```markdown
 Syntax highlighted code block
@@ -52,7 +52,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://tinyurl.com/baseery) and ![Image](src)
+[Link](https://drive.google.com/file/d/1YtOsp2m7FHMZtnxWH7QOZGVUSLjdO_jS/view) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
