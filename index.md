@@ -16,12 +16,13 @@ engineering. In addition to this, it’s extremely close to my home and by far t
 option for my education (as I’d be mostly paying for it by myself). However, it’s not where you
 go, it’s what you do there that truly matters
 
-### Career
 
-**Education**
-- Lassonde School of Engineering, Electrical Engineering B.Eng 2018 - 2023, 3.0/4.0 GPA
 
-**Work Experience**
+## Education
+
+Lassonde School of Engineering, Electrical Engineering B.Eng 2018 - 2023, 3.0/4.0 GPA
+
+## Work Experience 
 1. Kumon Canada - Grading Table Lead - August 2015 - June 2018
    - Grading student work and supervising coworkers during classroom hours.
    - Co-produced and presented two training modules to staff about grading policies and in-class protocols to reduce mistakes made   during in-class grading.
@@ -30,8 +31,9 @@ go, it’s what you do there that truly matters
     - Developed an Excel sheet on threshold and mathematical concepts related to 1st and 2nd year in the engineering curricula at York  University, for instructor use.
     - Conducted literature review on concepts related to engineering education (i.e. Lateral thinking, transformative topics, etc).
 
-**Resume** 
-- Click [here](https://drive.google.com/file/d/1YtOsp2m7FHMZtnxWH7QOZGVUSLjdO_jS/view)!
+## Resume
+
+Click [here](https://drive.google.com/file/d/1YtOsp2m7FHMZtnxWH7QOZGVUSLjdO_jS/view)!
 
 ```markdown
 Syntax highlighted code block
