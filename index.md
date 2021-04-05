@@ -3,7 +3,7 @@
 ## Hello and welcome to my ePortfolio!
 
 Hi there! My name is Baseer Yousufzai and I’m a 3rd-year electrical engineering student
-at the Lassonde School of Engineering. I’m an eager and passionate individual and I dedicate
+at the Lassonde School of Engineering. I’m an eager and passionate individual that dedicates
 myself to any task or organization I come across. 
 
 ## Education
