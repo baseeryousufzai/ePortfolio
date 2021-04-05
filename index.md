@@ -1,3 +1,5 @@
+![Image](https://live.staticflickr.com/7013/6642553325_9ea117a20b_b.jpg)
+
 ## Hello and welcome to my ePortfolio!
 
 Hi there! My name is Baseer Yousufzai and I’m a 3rd-year electrical engineering student
@@ -42,7 +44,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![Image](https://live.staticflickr.com/7013/6642553325_9ea117a20b_b.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
