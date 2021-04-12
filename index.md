@@ -1,10 +1,15 @@
 ![Image](https://live.staticflickr.com/7013/6642553325_9ea117a20b_b.jpg)
 
+
+Goals, reflections, critiques, and clearly highlighting the purpose of your e-portfolio. Please follow the guidelines in the manual. You are almost done and will be proud of your accomplishment. This tool will serve you well for many years to come.
+
+Make sure critical thinking and reflective writing are evident throughout your portfolios. I would like to see you list projects completed in classes or on your own as hobbies that are relevant to your engineering profession. Include imagery, and videos if available to make your site as appealing as possible. 
+
 ## Hello and welcome to my ePortfolio!
 
 Hi there! My name is Baseer Yousufzai and I’m a 3rd-year electrical engineering student
 at the Lassonde School of Engineering. I’m an eager and passionate individual that dedicates
-myself to any task or organization I come across. 
+myself to any task or organization I come across. Please click [here](https://streamable.com/nt2qqg) to learn a little more about me.
 
 ## Education
 - Lassonde School of Engineering, Electrical Engineering B.Eng 2023, 3.0/4.0 GPA
@@ -24,9 +29,18 @@ myself to any task or organization I come across.
 ## Goals
 - To continue working in the power and electricity distribution industry.
 - Contribute towards the goal of sustainable energy for residential use.
+- Be a positive role models for Afghan youth and other minorities interested in STEM careers.
+          - 
+
+## Projects
+-![Image](https://art.ngfiles.com/images/1745000/1745487_sonicfromtumblr_taking-down-tomorrow-need-reference-point.jpg?f1618186139)
+
+
 
 ## Skills
 - Using electronic lab equipment (oscilloscope, function generator, etc).
 - Building, prototyping, and testing electric circuits.
 - Labvolt (electrical motor simulation software.
 - Intermediate knowledge in Java, Python, MS Office, and MATLAB.
+
+## Hobbies
