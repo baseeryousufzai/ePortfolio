@@ -29,14 +29,23 @@ myself to any task or organization I come across. Please click [here](https://st
 ## Goals
 - To continue working in the power and electricity distribution industry.
 - Contribute towards the goal of sustainable energy for residential use.
-- Be a positive role models for Afghan youth and other minorities interested in STEM careers.
+- Be a positive role model for Afghan youth and other minorities interested in STEM as a possible career path.
           - 
 
 ## Projects
-![Image](https://art.ngfiles.com/images/1745000/1745487_sonicfromtumblr_taking-down-tomorrow-need-reference-point.jpg?f1618186139)
--
+![Image](https://media.discordapp.net/attachments/619301675974393876/830956250875166770/20200421_125709.jpg?width=429&height=572)
+- In this hodge podge of projects, I've built several interactable displays for a few in school events for kids to interact with and learn the concept behind. 
+
+     - The robot car is controlled with an Arduino Nano graciously donated by Elegoo (product tester role) that uses it's onboard, infrared sensors to avoid bumping or falling off obstacles when approaching them. 
+
+     - The colored breadboards are connected to a wheel you can spin to light up the connected LEDs. This is called a dynamo, whereas you use mechanical energy to convert it to electrical potential energy. I've also configured the circuits to show what happens when the LEDs are connected in series, parallel, and a bit of both.
+
+     - The circuit in the middle uses a 74HC595 shift register IC chip to store 1's and 0's that are represented by LEDs (on or off).
+
+     - The breadboard on the bottom has a sound sensor connected to an LM3914 IC chip and LEDs that light up the more sound it detects. Although this IC chip is traditionally used to drive an LED bar light, it works very well as a sensor output.
+
 ![Image](https://media.discordapp.net/attachments/619301675974393876/830956916850688000/20200421_130215.jpg?width=429&height=572)
--
+- Here I used an ESP32 microcontroller to make my first IoT project, a smart lamp - a web-controlled circuit that uses 6 RGB LEDs to simulate nearly any color te user wishes.
 
 ## Skills
 - Using electronic lab equipment (oscilloscope, function generator, etc).
@@ -45,3 +54,8 @@ myself to any task or organization I come across. Please click [here](https://st
 - Intermediate knowledge in Java, Python, MS Office, and MATLAB.
 
 ## Hobbies
+- Learning more about embedded systems!
+       - As of now, I've ordered several development boards to get started on. One of which I'm very excited to start is with the DM164144 - Curiosity Nano board which uses a PIC16F18446 as the microcontroller. For context, a PIC chip is a microcontroller that was developed in the 80's that's still widely used as they're dirt cheap, optimal for embedded systems (e.g. You don't need a washing machine that operates at a high clock rate), and have a lot of resources out there to use. I'm excited to get this as without a development board, programming a PIC chip requires an $80 (CAD) +, programmer kit to do - this board costs just $15 CAD! Also, I'd like to learn embedded C which this board uses.
+
+![Image](https://static5.arrow.com/pdfs2/2019/6/18/11/15/12/73348/mcp_/manual/dm164144_2.jpg)
+
