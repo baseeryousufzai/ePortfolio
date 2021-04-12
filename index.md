@@ -33,9 +33,10 @@ myself to any task or organization I come across. Please click [here](https://st
           - 
 
 ## Projects
--![Image](https://art.ngfiles.com/images/1745000/1745487_sonicfromtumblr_taking-down-tomorrow-need-reference-point.jpg?f1618186139)
-
-
+![Image](https://art.ngfiles.com/images/1745000/1745487_sonicfromtumblr_taking-down-tomorrow-need-reference-point.jpg?f1618186139)
+-
+![Image](https://media.discordapp.net/attachments/619301675974393876/830956916850688000/20200421_130215.jpg?width=429&height=572)
+-
 
 ## Skills
 - Using electronic lab equipment (oscilloscope, function generator, etc).
