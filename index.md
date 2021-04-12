@@ -45,7 +45,7 @@ myself to any task or organization I come across. Please click [here](https://st
      - The breadboard on the bottom has a sound sensor connected to an LM3914 IC chip and LEDs that light up the more sound it detects. Although this IC chip is traditionally used to drive an LED bar light, it works very well as a sensor output.
 
 ![Image](https://media.discordapp.net/attachments/619301675974393876/830956916850688000/20200421_130215.jpg?width=429&height=572)
-- Here I used an ESP32 microcontroller to make my first IoT project, a smart lamp - a web-controlled circuit that uses 6 RGB LEDs to simulate nearly any color te user wishes.
+- Here I used an ESP32 microcontroller to make my first IoT project, a smart lamp - a web-controlled circuit that uses 6 RGB LEDs to simulate nearly any color the user wishes.
 
 ## Skills
 - Using electronic lab equipment (oscilloscope, function generator, etc).
